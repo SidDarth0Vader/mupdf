@@ -1,83 +1,83 @@
 [submodule "thirdparty/jbig2dec"]
 	path = thirdparty/jbig2dec
-	url = ../jbig2dec.git
+	url = git://git.ghostscript.com/jbig2dec.git
 	shallow = true
 [submodule "thirdparty/mujs"]
 	path = thirdparty/mujs
-	url = ../mujs.git
+	url = git://git.ghostscript.com/mujs.git
 	shallow = true
 [submodule "thirdparty/freetype"]
 	path = thirdparty/freetype
-	url = ../thirdparty-freetype2.git
+	url = git://git.ghostscript.com/thirdparty-freetype2.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/gumbo-parser"]
 	path = thirdparty/gumbo-parser
-	url = ../thirdparty-gumbo-parser.git
+	url = git://git.ghostscript.com/thirdparty-gumbo-parser.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/harfbuzz"]
 	path = thirdparty/harfbuzz
-	url = ../thirdparty-harfbuzz.git
+	url = git://git.ghostscript.com/thirdparty-harfbuzz.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/jpeg"]
 	path = thirdparty/libjpeg
-	url = ../thirdparty-libjpeg.git
+	url = git://git.ghostscript.com/thirdparty-libjpeg.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/lcms2"]
 	path = thirdparty/lcms2
-	url = ../thirdparty-lcms2.git
+	url = git://git.ghostscript.com/thirdparty-lcms2.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/openjpeg"]
 	path = thirdparty/openjpeg
-	url = ../thirdparty-openjpeg.git
+	url = git://git.ghostscript.com/thirdparty-openjpeg.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/zlib"]
 	path = thirdparty/zlib
-	url = ../thirdparty-zlib.git
+	url = git://git.ghostscript.com/thirdparty-zlib.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/curl"]
 	path = thirdparty/curl
-	url = ../thirdparty-curl.git
+	url = git://git.ghostscript.com/thirdparty-curl.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/freeglut"]
 	path = thirdparty/freeglut
-	url = ../thirdparty-freeglut.git
+	url = git://git.ghostscript.com/thirdparty-freeglut.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/tesseract"]
 	path = thirdparty/tesseract
-	url = ../thirdparty-tesseract.git
+	url = git://git.ghostscript.com/thirdparty-tesseract.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/leptonica"]
 	path = thirdparty/leptonica
-	url = ../thirdparty-leptonica.git
+	url = git://git.ghostscript.com/thirdparty-leptonica.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/extract"]
 	path = thirdparty/extract
-	url = ../extract.git
+	url = git://git.ghostscript.com/extract.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/zxing-cpp"]
 	path = thirdparty/zxing-cpp
-	url = ../thirdparty-zxing-cpp.git
+	url = git://git.ghostscript.com/thirdparty-zxing-cpp.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/zint"]
 	path = thirdparty/zint
-	url = ../thirdparty-zint.git
+	url = git://git.ghostscript.com/thirdparty-zint.git
 	branch = artifex
 	shallow = true
 [submodule "thirdparty/brotli"]
 	path = thirdparty/brotli
-	url = ../thirdparty-brotli.git
+	url = git://git.ghostscript.com/thirdparty-brotli.git
 	branch = artifex
 	shallow = true
